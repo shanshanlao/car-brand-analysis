@@ -1,918 +1,918 @@
-,Make
-0,SNVI
-1,Zanella
-2,Koller
-3,Anasagasti
-4,AutoLatina
-5,Autoar
-6,Crespi
-7,Eniak
-8,Hispano-Argentina
-9,IAVA
-10,IAME
-11,IKA
-12,Sevel Argentina
-13,SIAM Di Tella
-14,ErAZ
-15,ACE EV Group
-16,Borland Racing Developments
-17,Bolwell
-18,Brabham Automotive
-19,Ford Australia
-20,General Motors Special Vehicles (GMSV)
-21,Elfin Sports Cars
-22,Ford Performance Vehicles (FPV)
-23,Giocattolo
-24,Holden
-25,KTM
-26,Magna Steyr
-27,Puch
-28,Tushek & Spigel
-29,Austro-Daimler
-30,Austro-Tatra
-31,Denzel
-32,Felber
-33,Libelle
-34,Lohner–Porsche
-35,Möve
-36,ÖAF
-37,Steyr
-38,Steyr-Daimler-Puch
-39,AzSamand
-40,Ganja Auto Plant
-41,Nakhchivan Automobile Plant
-42,BMTF
-43,BelAZ
-44,BelGee
-45,MAZ
-46,MoAZ
-47,MZKT
-48,Neman
-49,Gillet
-50,Van Hool
-51,Auto-Mixte
-52,FN
-53,Imperia
-54,Métallurgique
-55,Minerva
-56,Nagant
-57,Pieper
-58,Agrale
-59,Comil
-60,Marcopolo
-61,Mascarello
-62,Neobus
-63,TAC
-64,Brasinca
-65,Busscar
-66,Dacon
-67,Engesa
-68,FNM
-69,Farus
-70,Gurgel
-71,HTT
-72,Hofstetter
-73,JPX
-74,Lobini
-75,Obvio!
-76,Puma
-77,Romi
-78,Santa Matilde
-79,Troller
-80,Vemag
-81,Litex
-82,SIN
-83,Bulgaralpine
-84,Bulgarrenault
-85,Moskvych
-86,Pirin-Fiat
-87,Sofia
-88,Bombardier
-89,Campagna
-90,Felino Corporation
-91,Intermeccanica
-92,INKAS
-93,New Flyer
-94,Nova Bus
-95,Prevost
-96,Terradyne
-97,Acadian
-98,Asüna
-99,Beaumont
-100,Bricklin
-101,Brooks
-102,Can-Am
-103,Dennis
-104,Derby
-105,Dupont
-106,Dynasty
-107,Envoy
-108,Frontenac
-109,Gray-Dort
-110,Hayes Trucks
-111,Manic
-112,McLaughlin
-113,Meteor
-114,Monarch
-115,Orion
-116,Pacific Trucks
-117,Passport
-118,Redpath
-119,Russell
-120,Studebaker
-121,ZENN
-122,Arcfox
-123,Aion
-124,Apex Motors
-125,BAIC
-126,Baojun
-127,BAW
-128,Bestune
-129,Brilliance
-130,BYD
-131,Changan
-132,Changhe
-133,Chery
-134,CNHTC
-135,Dongfeng
-136,Englon
-137,EuAuto
-138,Everus
-139,FAW
-140,Hongqi
-141,Foton
-142,GAC Fiat
-143,Geely
-144,Gonow
-145,Great Wall
-146,Hafei
-147,Haima
-148,Hanteng
-149,Hawtai
-150,Haval
-151,Heibao
-152,Higer
-153,JAC Motors
-154,Jiangling
-155,Jinbei
-156,Jonway
-157,Karry
-158,Landwind
-159,Leahead
-160,Lifan
-161,Li Auto
-162,Luxgen
-163,Nio
-164,Qoros
-165,Roewe
-166,SAIC
-167,Sehol
-168,Shacman
-169,Soueast
-170,Trumpchi
-171,Wuling
-172,Voyah
-173,Xpeng
-174,Yudo Auto
-175,Yutong
-176,Zhongtong Bus
-177,Zinoro
-178,Zotye
-179,ZX Auto
-180,Emgrand
-181,Dadi Auto
-182,Venucia
-183,DOK-ING
-184,Rimac
-185,Škoda
-186,Tatra
-187,Avia
-188,Kaipan
-189,MTX
-190,Praga
-191,Aero
-192,Jawa
-193,LIAZ
-194,Velorex
-195,Walter Fiat
-196,Zenvo
-197,Marathon Motors Engineering
-198,Holland Car
-199,Valmet Automotive
-200,Electric Raceabout
-201,Toroidion
-202,Sisu Auto
-203,Aixam
-204,Alpine
-205,Auverland
-206,Bolloré
-207,Bugatti
-208,Citroën
-209,Exagon
-210,Hommell
-211,Ligier
-212,Microcar
-213,Méga
-214,Peugeot
-215,PGO
-216,Renault
-217,Venturi
-218,Aérocarène
-219,Bellanger
-220,Berliet
-221,Chenard-Walcker
-222,Decauville
-223,De Dion-Bouton
-224,Delage
-225,Delahaye
-226,Delaunay-Belleville
-227,Facel Vega
-228,Helicron
-229,Hommell
-230,Lorraine-Dietrich
-231,Matra
-232,Mors
-233,Panhard
-234,Rochet-Schneider
-235,Simca
-236,Talbot
-237,Talbot-Lago
-238,Alpina
-239,Apollo
-240,Artega
-241,Audi
-242,Bitter
-243,BMW
-244,Daimler Truck
-245,Fuso
-246,Isdera
-247,Lotec
-248,MAN
-249,Mercedes-Benz
-250,Multicar
-251,Neoplan
-252,Opel
-253,Ruf
-254,Porsche
-255,Setra
-256,Smart
-257,Volkswagen
-258,Wiesmann
-259,Adler
-260,AGA
-261,Auto Union
-262,AWS
-263,AWZ
-264,Barkas
-265,Borgward
-266,Brennabor
-267,Büssing
-268,Dauer
-269,DKW
-270,Glas
-271,Goliath
-272,Gumpert
-273,Hanomag
-274,Hansa
-275,Heinkel
-276,Horch
-277,Karmann
-278,Lloyd
-279,Maybach
-280,Melkus
-281,Messerschmitt
-282,NAG
-283,NSU
-284,Robur
-285,Simson
-286,Stoewer
-287,Tempo
-288,Trabant
-289,Wanderer
-290,Wartburg
-291,Zundapp
-292,Kantanka
-293,ELVO
-294,Korres
-295,Namco
-296,Replicar Hellas
-297,Sfakianakis
-298,Tangalakis-Temax
-299,Alta
-300,Attica
-301,Autokinitoviomihania Ellados
-302,Automeccanica
-303,Balkania
-304,BET
-305,Biamax
-306,BIOMAN
-307,DIM
-308,MAVA-Renault
-309,MEBEA
-310,Neorion
-311,Pan-Car
-312,Theologou
-313,Ajanta Group
-314,Ashok Leyland
-315,Asia MotorWorks
-316,Atul Auto
-317,AVANI
-318,Bajaj
-319,Eicher
-320,Force
-321,Hindustan
-322,Hradyesh
-323,ICML
-324,KAL
-325,Mahindra
-326,Maruti Suzuki
-327,Omega Seiki Mobility
-328,Tara International
-329,Tata
-330,TVS
-331,Chinkara
-332,Hero
-333,Ideal Jawa
-334,Kinetic Engineering Limited
-335,Lohia Machinery
-336,Mopeds India Limited
-337,Premier
-338,Sipani
-339,Standard
-340,Swaraj Mazda
-341,TMC
-342,Alesbury
-343,Crosslé
-344,Shamrock (car)
-345,Astra International
-346,Indomobil Group
-347,Esemka
-348,Pindad
-349,Timor
-350,Bahman
-351,Iran Khodro
-352,Kish Khodro
-353,MVM
-354,Pars Khodro
-355,SAIPA
-356,Autocars
-357,Carmor
-358,Plasan
-359,AIL
-360,Abarth
-361,Alfa Romeo
-362,Bremach
-363,Casalini
-364,Covini
-365,CTS
-366,DR Motor
-367,Ducati
-368,Ferrari
-369,Fiat
-370,Iso
-371,Italdesign
-372,Iveco
-373,Lancia
-374,Lamborghini
-375,Maserati
-376,Mazzanti
-377,Minardi
-378,Pagani
-379,Piaggio
-380,Pininfarina
-381,Vespa
-382,Zagato
-383,APIS
-384,Ansaldo
-385,Aquila
-386,A.S.A.
-387,A.T.S.
-388,Autobianchi
-389,Aurea
-390,Bandini
-391,Bertone
-392,Bizzarrini
-393,Ceirano
-394,Chiribiri
-395,Cisitalia
-396,Cizeta
-397,De Tomaso
-398,Diatto
-399,FCA
-400,F.L.A.G.
-401,Fornasari
-402,Innocenti
-403,Intermeccanica
-404,Iso Milano
-405,Isotta Fraschini
-406,Itala
-407,Junior
-408,Lambretta
-409,LMX
-410,Marca-Tre-Spade
-411,Moretti
-412,Nardi
-413,O.M.
-414,O.S.C.A.
-415,Qvale
-416,Scuderia Ferrari
-417,Rapid
-418,S.C.A.T.
-419,Siata
-420,S.P.A.
-421,Stanguellini
-422,Storero
-423,Vignale
-424,Volugrafo
-425,Zust
-426,Acura
-427,Aspark
-428,Autobacs Seven
-429,Daihatsu
-430,Dome
-431,GLM
-432,Hino
-433,Honda
-434,Infiniti
-435,Isuzu
-436,Kawasaki
-437,Lexus
-438,Mazda
-439,Mitsubishi Motors
-440,Mitsubishi Fuso
-441,Mitsuoka
-442,Nissan
-443,Subaru
-444,Suzuki
-445,Tommykaira
-446,Toyota
-447,UD Trucks
-448,Yamaha
-449,Asahi
-450,Autozam
-451,Datsun
-452,Eunos
-453,Ohta
-454,Otomo
-455,Prince
-456,Mobius Motors
-457,Dartz
-458,Ford-Vairogs
-459,RAF (Latvija)
-460,W Motors
-461,Orca Engineering
-462,Jehle
-463,MDI
-464,Bufori
-465,DefTech
-466,Inokom
-467,Modenas
-468,Naza
-469,Perodua
-470,Proton
-471,DINA
-472,Mastretta
-473,VUHL
-474,Ramirez
-475,VAM
-476,Venturi
-477,Laraki
-478,Renault Somaca
-479,Fiat Somaca
-480,Shan Star
-481,Burton
-482,Carver
-483,DAF
-484,Dakar
-485,Donkervoort
-486,Spijkstaal
-487,Spyker
-488,Stellantis
-489,Vandenbrink
-490,VDL Berkhof
-491,Vencer
-492,Anziel
-493,Saker Cars
-494,Trekka
-495,Innoson Motors
-496,DFM
-497,Pyeonghwa Motors
-498,Sungri Motors
-499,Samhung Motors
-500,Buddy
-501,Think
-502,Heavy Industries Taxila
-503,Sazgar
-504,United Auto Industries
-505,Adam Motor Company
-506,Dewan Farooque Motors
-507,Nexus Automotive
-508,Almazora Motors
-509,Del Monte Motors
-510,Sarao Motors
-511,Delta
-512,AMZ
-513,Arrinera
-514,Autosan
-515,Jelcz
-516,Solaris
-517,Ursus
-518,FSC Żuk
-519,FSM
-520,FSO
-521,FSR Tarpan
-522,Intrall
-523,Polski Fiat
-524,Star
-525,Syrena
-526,Warszawa
-527,ZSD Nysa
-528,Vinci
-529,Bravia
-530,Portaro
-531,UMM
-532,Edfor
-533,Dacia
-534,ROMAN
-535,ARO
-536,Oltcit
-537,Rocar
-538,Avtotor
-539,GAZ
-540,IZh
-541,Kamaz
-542,Lada
-543,LiAZ
-544,PAZ
-545,Sollers
-546,UAZ
-547,Amur
-548,Avtoframos
-549,Derways
-550,GAZ (Volga)
-551,Marussia
-552,Moskvitch
-553,Russo-Balt
-554,SeAZ
-555,SMZ
-556,TagAZ
-557,Yo-Mobile
-558,ZiL
-559,KSU Gazal-1
-560,FAP
-561,FAS
-562,Ikarbus
-563,IMT
-564,Neobus
-565,Zastava
-566,IDA
-567,Yugo
-568,Adria Mobil
-569,Tushek & Spigel
-570,TAM
-571,Advanced Automotive Design
-572,Perana Performance Group
-573,AAD
-574,CT&T United
-575,Daewoo Bus
-576,Genesis
-577,GM Korea
-578,Hyundai
-579,Kia
-580,Renault Samsung
-581,SsangYong
-582,Tata Daewoo
-583,Asia Motors
-584,Daewoo
-585,Keohwa
-586,Proto
-587,Saehan
-588,Samsung
-589,Shinjin
-590,Sibal
-591,Abadal
-592,Aspid
-593,Cupra
-594,GTA
-595,Irizar
-596,SEAT
-597,Spania
-598,Tauro
-599,Tramontana
-600,Uro
-601,Hispano Suiza
-602,Micro
-603,Vega EVX
-604,Koenigsegg
-605,NEVS
-606,Polestar
-607,Scania
-608,Uniti
-609,Volvo Buses
-610,Volvo Cars
-611,Volvo Trucks
-612,Jösse Car
-613,Saab
-614,Leblanc
-615,Rinspeed
-616,Sbarro
-617,Enzmann
-618,Martini
-619,Monteverdi
-620,Pic-Pic
-621,Soletta
-622,CMC
-623,Luxgen
-624,Yulon
-625,Thai Rung
-626,Wallyscar
-627,BMC
-628,Diardi
-629,Erkunt
-630,Etox
-631,Fiat-Tofaş
-632,FNSS
-633,Guleryuz
-634,Karsan
-635,Otokar
-636,Özaltin
-637,Pancar Motor
-638,Temsa
-639,TOGG
-640,Anadol
-641,Devrim
-642,Bohdan
-643,Etalon
-644,KrAZ
-645,LAZ
-646,ZAZ
-647,LuAZ
-648,W Motors
-649,Ajlani Motors
-650,AC
-651,Alexander Dennis
-652,Apex Motors
-653,Ariel
-654,Aston Martin
-655,Atalanta Motors
-656,BAC
-657,Bentley
-658,Bowler
-659,Caterham
-660,David Brown Automotive
-661,Ginetta
-662,GKD
-663,Grinnall
-664,Healey
-665,Jaguar
-666,Lagonda
-667,Larmar
-668,Land Rover
-669,Lister
-670,Lotus
-671,McLaren
-672,MG
-673,Mini
-674,Modec
-675,Morgan
-676,Noble
-677,Radical Sportscars
-678,Rolls-Royce
-679,Ronart Cars
-680,TVR
-681,Ultima Sports
-682,Vauxhall
-683,Westfield
-684,Adam's Brothers
-685,AEC
-686,Allard
-687,Alvis
-688,Austin
-689,Austin-Healey
-690,British Leyland
-691,Bristol
-692,Daimler
-693,Donald Healey
-694,Elva
-695,Gordon Keeble
-696,Hillman
-697,Humber
-698,Jensen
-699,Jowett
-700,Lanchester
-701,Marcos
-702,Morris
-703,Panther Westwinds
-704,Reliant Motors
-705,Riley
-706,Rootes
-707,Rover
-708,Sharps Commercials Ltd
-709,Singer
-710,Standard
-711,Sunbeam
-712,Trident Cars
-713,Triumph
-714,Trojan
-715,Wolseley
-716,All American Racers
-717,AM General
-718,Anteros Coachworks
-719,Aptera
-720,Arcimoto
-721,Autocar
-722,Bremach
-723,Buick
-724,Cadillac
-725,Callaway
-726,Canoo
-727,Chevrolet
-728,Chrysler
-729,Detroit Electric
-730,Dodge
-731,E-Z-GO
-732,ElDorado
-733,ENC
-734,Falcon Motorsports
-735,Faraday
-736,FCA
-737,Fisker
-738,Ford
-739,Freightliner
-740,Gillig
-741,GM
-742,Google
-743,GEM
-744,GMC
-745,Hennessey
-746,Jeep
-747,Karma
-748,Kenworth
-749,Lincoln
-750,Lordstown Motors
-751,Lucid Motors
-752,Mack
-753,MCI
-754,Navistar
-755,Nikola Motor
-756,Oshkosh
-757,Panoz
-758,Peterbilt
-759,Pierce
-760,Polaris
-761,Proterra
-762,Ram
-763,RAESR
-764,Rezvani Motors
-765,Rivian
-766,Rossion
-767,Saleen
-768,SCG
-769,Shelby
-770,SRT
-771,SSC
-772,Tesla
-773,Thomas Built Buses
-774,Trion Supercars
-775,VLF Automotive
-776,Western Star
-777,Workhorse
-778,Adams-Farwell
-779,Alco
-780,AMC
-781,Amplex
-782,Apollo
-783,Apperson
-784,Aptera
-785,ArBenz
-786,Auburn
-787,Avanti Motor Company
-788,Baker Electric
-789,Bates
-790,Brush
-791,Cartercar
-792,Chalmers
-793,Chandler
-794,Chaparral Cars
-795,Checker
-796,Clénet
-797,Cole
-798,Columbia
-799,Continental
-800,Cord
-801,Crawford
-802,Crosley
-803,Cutting
-804,Daniels
-805,Davis
-806,Devon
-807,DeLorean
-808,DeSoto
-809,Diamond Reo Trucks
-810,Doble
-811,Dorris
-812,Dort
-813,Duesenberg
-814,Durant
-815,Dymaxion
-816,Eagle
-817,Edsel
-818,Elgin
-819,Essex
-820,Excalibur
-821,Flint
-822,Frazer
-823,Frontenac
-824,Gardner
-825,Geo
-826,Graham-Paige
-827,Grumman
-828,Haynes
-829,Hudson
-830,Hummer
-831,Hupmobile
-832,Hupp-Yeats
-833,Imperial
-834,International Harvester
-835,Inter-State
-836,Jackson
-837,Jeffery
-838,Kaiser
-839,King
-840,Kissel
-841,Kline Kar
-842,Knox
-843,LaFayette
-844,Laforza
-845,Lambert
-846,LaSalle
-847,Lexington
-848,Local
-849,Locomobile
-850,Lozier
-851,Lyons-Knight
-852,Marmon
-853,Marmon
-854,Marmon-Herrington
-855,Maxwell
-856,McFarlan
-857,Mercury
-858,Mitchell
-859,Monarch
-860,Monroe
-861,Moon
-862,Mosler
-863,Nash
-864,National
-865,Nyberg
-866,Oakland
-867,Oldsmobile
-868,Overland
-869,Packard
-870,Peerless
-871,Pierce-Arrow
-872,Pilot
-873,Plymouth
-874,Pontiac
-875,Pope-Toledo
-876,Pope-Tribune
-877,Premier
-878,Pungs Finch
-879,Rambler
-880,Rauch and Lang
-881,Regal
-882,REO
-883,Safari Coach
-884,Saturn
-885,Scion
-886,Scripps-Booth
-887,Simplex
-888,Speedwell
-889,Stanley
-890,Star
-891,Stearns-Knight
-892,Sterling
-893,Sterling Trucks
-894,Stevens-Duryea
-895,Stoddard-Dayton
-896,Studebaker
-897,Stutz
-898,TH!NK
-899,Thomas
-900,Tucker
-901,Vector
-902,VPG
-903,Velie
-904,Westcott
-905,White
-906,Willys
-907,Zimmer
-908,Effa
-909,SAZ
-910,GM Uzbekistan
-911,Venirauto
-912,Thaco
-913,Mekong Auto
-914,VinFast
-915,World Auto
-916,Vinaxuki
+Make
+SNVI
+Zanella
+Koller
+Anasagasti
+AutoLatina
+Autoar
+Crespi
+Eniak
+Hispano-Argentina
+IAVA
+IAME
+IKA
+Sevel Argentina
+SIAM Di Tella
+ErAZ
+ACE EV Group
+Borland Racing Developments
+Bolwell
+Brabham Automotive
+Ford Australia
+General Motors Special Vehicles (GMSV)
+Elfin Sports Cars
+Ford Performance Vehicles (FPV)
+Giocattolo
+Holden
+KTM
+Magna Steyr
+Puch
+Tushek & Spigel
+Austro-Daimler
+Austro-Tatra
+Denzel
+Felber
+Libelle
+Lohner–Porsche
+Möve
+ÖAF
+Steyr
+Steyr-Daimler-Puch
+AzSamand
+Ganja Auto Plant
+Nakhchivan Automobile Plant
+BMTF
+BelAZ
+BelGee
+MAZ
+MoAZ
+MZKT
+Neman
+Gillet
+Van Hool
+Auto-Mixte
+FN
+Imperia
+Métallurgique
+Minerva
+Nagant
+Pieper
+Agrale
+Comil
+Marcopolo
+Mascarello
+Neobus
+TAC
+Brasinca
+Busscar
+Dacon
+Engesa
+FNM
+Farus
+Gurgel
+HTT
+Hofstetter
+JPX
+Lobini
+Obvio!
+Puma
+Romi
+Santa Matilde
+Troller
+Vemag
+Litex
+SIN
+Bulgaralpine
+Bulgarrenault
+Moskvych
+Pirin-Fiat
+Sofia
+Bombardier
+Campagna
+Felino Corporation
+Intermeccanica
+INKAS
+New Flyer
+Nova Bus
+Prevost
+Terradyne
+Acadian
+Asüna
+Beaumont
+Bricklin
+Brooks
+Can-Am
+Dennis
+Derby
+Dupont
+Dynasty
+Envoy
+Frontenac
+Gray-Dort
+Hayes Trucks
+Manic
+McLaughlin
+Meteor
+Monarch
+Orion
+Pacific Trucks
+Passport
+Redpath
+Russell
+Studebaker
+ZENN
+Arcfox
+Aion
+Apex Motors
+BAIC
+Baojun
+BAW
+Bestune
+Brilliance
+BYD
+Changan
+Changhe
+Chery
+CNHTC
+Dongfeng
+Englon
+EuAuto
+Everus
+FAW
+Hongqi
+Foton
+GAC Fiat
+Geely
+Gonow
+Great Wall
+Hafei
+Haima
+Hanteng
+Hawtai
+Haval
+Heibao
+Higer
+JAC Motors
+Jiangling
+Jinbei
+Jonway
+Karry
+Landwind
+Leahead
+Lifan
+Li Auto
+Luxgen
+Nio
+Qoros
+Roewe
+SAIC
+Sehol
+Shacman
+Soueast
+Trumpchi
+Wuling
+Voyah
+Xpeng
+Yudo Auto
+Yutong
+Zhongtong Bus
+Zinoro
+Zotye
+ZX Auto
+Emgrand
+Dadi Auto
+Venucia
+DOK-ING
+Rimac
+Škoda
+Tatra
+Avia
+Kaipan
+MTX
+Praga
+Aero
+Jawa
+LIAZ
+Velorex
+Walter Fiat
+Zenvo
+Marathon Motors Engineering
+Holland Car
+Valmet Automotive
+Electric Raceabout
+Toroidion
+Sisu Auto
+Aixam
+Alpine
+Auverland
+Bolloré
+Bugatti
+Citroën
+Exagon
+Hommell
+Ligier
+Microcar
+Méga
+Peugeot
+PGO
+Renault
+Venturi
+Aérocarène
+Bellanger
+Berliet
+Chenard-Walcker
+Decauville
+De Dion-Bouton
+Delage
+Delahaye
+Delaunay-Belleville
+Facel Vega
+Helicron
+Hommell
+Lorraine-Dietrich
+Matra
+Mors
+Panhard
+Rochet-Schneider
+Simca
+Talbot
+Talbot-Lago
+Alpina
+Apollo
+Artega
+Audi
+Bitter
+BMW
+Daimler Truck
+Fuso
+Isdera
+Lotec
+MAN
+Mercedes-Benz
+Multicar
+Neoplan
+Opel
+Ruf
+Porsche
+Setra
+Smart
+Volkswagen
+Wiesmann
+Adler
+AGA
+Auto Union
+AWS
+AWZ
+Barkas
+Borgward
+Brennabor
+Büssing
+Dauer
+DKW
+Glas
+Goliath
+Gumpert
+Hanomag
+Hansa
+Heinkel
+Horch
+Karmann
+Lloyd
+Maybach
+Melkus
+Messerschmitt
+NAG
+NSU
+Robur
+Simson
+Stoewer
+Tempo
+Trabant
+Wanderer
+Wartburg
+Zundapp
+Kantanka
+ELVO
+Korres
+Namco
+Replicar Hellas
+Sfakianakis
+Tangalakis-Temax
+Alta
+Attica
+Autokinitoviomihania Ellados
+Automeccanica
+Balkania
+BET
+Biamax
+BIOMAN
+DIM
+MAVA-Renault
+MEBEA
+Neorion
+Pan-Car
+Theologou
+Ajanta Group
+Ashok Leyland
+Asia MotorWorks
+Atul Auto
+AVANI
+Bajaj
+Eicher
+Force
+Hindustan
+Hradyesh
+ICML
+KAL
+Mahindra
+Maruti Suzuki
+Omega Seiki Mobility
+Tara International
+Tata
+TVS
+Chinkara
+Hero
+Ideal Jawa
+Kinetic Engineering Limited
+Lohia Machinery
+Mopeds India Limited
+Premier
+Sipani
+Standard
+Swaraj Mazda
+TMC
+Alesbury
+Crosslé
+Shamrock (car)
+Astra International
+Indomobil Group
+Esemka
+Pindad
+Timor
+Bahman
+Iran Khodro
+Kish Khodro
+MVM
+Pars Khodro
+SAIPA
+Autocars
+Carmor
+Plasan
+AIL
+Abarth
+Alfa Romeo
+Bremach
+Casalini
+Covini
+CTS
+DR Motor
+Ducati
+Ferrari
+Fiat
+Iso
+Italdesign
+Iveco
+Lancia
+Lamborghini
+Maserati
+Mazzanti
+Minardi
+Pagani
+Piaggio
+Pininfarina
+Vespa
+Zagato
+APIS
+Ansaldo
+Aquila
+A.S.A.
+A.T.S.
+Autobianchi
+Aurea
+Bandini
+Bertone
+Bizzarrini
+Ceirano
+Chiribiri
+Cisitalia
+Cizeta
+De Tomaso
+Diatto
+FCA
+F.L.A.G.
+Fornasari
+Innocenti
+Intermeccanica
+Iso Milano
+Isotta Fraschini
+Itala
+Junior
+Lambretta
+LMX
+Marca-Tre-Spade
+Moretti
+Nardi
+O.M.
+O.S.C.A.
+Qvale
+Scuderia Ferrari
+Rapid
+S.C.A.T.
+Siata
+S.P.A.
+Stanguellini
+Storero
+Vignale
+Volugrafo
+Zust
+Acura
+Aspark
+Autobacs Seven
+Daihatsu
+Dome
+GLM
+Hino
+Honda
+Infiniti
+Isuzu
+Kawasaki
+Lexus
+Mazda
+Mitsubishi Motors
+Mitsubishi Fuso
+Mitsuoka
+Nissan
+Subaru
+Suzuki
+Tommykaira
+Toyota
+UD Trucks
+Yamaha
+Asahi
+Autozam
+Datsun
+Eunos
+Ohta
+Otomo
+Prince
+Mobius Motors
+Dartz
+Ford-Vairogs
+RAF (Latvija)
+W Motors
+Orca Engineering
+Jehle
+MDI
+Bufori
+DefTech
+Inokom
+Modenas
+Naza
+Perodua
+Proton
+DINA
+Mastretta
+VUHL
+Ramirez
+VAM
+Venturi
+Laraki
+Renault Somaca
+Fiat Somaca
+Shan Star
+Burton
+Carver
+DAF
+Dakar
+Donkervoort
+Spijkstaal
+Spyker
+Stellantis
+Vandenbrink
+VDL Berkhof
+Vencer
+Anziel
+Saker Cars
+Trekka
+Innoson Motors
+DFM
+Pyeonghwa Motors
+Sungri Motors
+Samhung Motors
+Buddy
+Think
+Heavy Industries Taxila
+Sazgar
+United Auto Industries
+Adam Motor Company
+Dewan Farooque Motors
+Nexus Automotive
+Almazora Motors
+Del Monte Motors
+Sarao Motors
+Delta
+AMZ
+Arrinera
+Autosan
+Jelcz
+Solaris
+Ursus
+FSC Żuk
+FSM
+FSO
+FSR Tarpan
+Intrall
+Polski Fiat
+Star
+Syrena
+Warszawa
+ZSD Nysa
+Vinci
+Bravia
+Portaro
+UMM
+Edfor
+Dacia
+ROMAN
+ARO
+Oltcit
+Rocar
+Avtotor
+GAZ
+IZh
+Kamaz
+Lada
+LiAZ
+PAZ
+Sollers
+UAZ
+Amur
+Avtoframos
+Derways
+GAZ (Volga)
+Marussia
+Moskvitch
+Russo-Balt
+SeAZ
+SMZ
+TagAZ
+Yo-Mobile
+ZiL
+KSU Gazal-1
+FAP
+FAS
+Ikarbus
+IMT
+Neobus
+Zastava
+IDA
+Yugo
+Adria Mobil
+Tushek & Spigel
+TAM
+Advanced Automotive Design
+Perana Performance Group
+AAD
+CT&T United
+Daewoo Bus
+Genesis
+GM Korea
+Hyundai
+Kia
+Renault Samsung
+SsangYong
+Tata Daewoo
+Asia Motors
+Daewoo
+Keohwa
+Proto
+Saehan
+Samsung
+Shinjin
+Sibal
+Abadal
+Aspid
+Cupra
+GTA
+Irizar
+SEAT
+Spania
+Tauro
+Tramontana
+Uro
+Hispano Suiza
+Micro
+Vega EVX
+Koenigsegg
+NEVS
+Polestar
+Scania
+Uniti
+Volvo Buses
+Volvo Cars
+Volvo Trucks
+Jösse Car
+Saab
+Leblanc
+Rinspeed
+Sbarro
+Enzmann
+Martini
+Monteverdi
+Pic-Pic
+Soletta
+CMC
+Luxgen
+Yulon
+Thai Rung
+Wallyscar
+BMC
+Diardi
+Erkunt
+Etox
+Fiat-Tofaş
+FNSS
+Guleryuz
+Karsan
+Otokar
+Özaltin
+Pancar Motor
+Temsa
+TOGG
+Anadol
+Devrim
+Bohdan
+Etalon
+KrAZ
+LAZ
+ZAZ
+LuAZ
+W Motors
+Ajlani Motors
+AC
+Alexander Dennis
+Apex Motors
+Ariel
+Aston Martin
+Atalanta Motors
+BAC
+Bentley
+Bowler
+Caterham
+David Brown Automotive
+Ginetta
+GKD
+Grinnall
+Healey
+Jaguar
+Lagonda
+Larmar
+Land Rover
+Lister
+Lotus
+McLaren
+MG
+Mini
+Modec
+Morgan
+Noble
+Radical Sportscars
+Rolls-Royce
+Ronart Cars
+TVR
+Ultima Sports
+Vauxhall
+Westfield
+Adam's Brothers
+AEC
+Allard
+Alvis
+Austin
+Austin-Healey
+British Leyland
+Bristol
+Daimler
+Donald Healey
+Elva
+Gordon Keeble
+Hillman
+Humber
+Jensen
+Jowett
+Lanchester
+Marcos
+Morris
+Panther Westwinds
+Reliant Motors
+Riley
+Rootes
+Rover
+Sharps Commercials Ltd
+Singer
+Standard
+Sunbeam
+Trident Cars
+Triumph
+Trojan
+Wolseley
+All American Racers
+AM General
+Anteros Coachworks
+Aptera
+Arcimoto
+Autocar
+Bremach
+Buick
+Cadillac
+Callaway
+Canoo
+Chevrolet
+Chrysler
+Detroit Electric
+Dodge
+E-Z-GO
+ElDorado
+ENC
+Falcon Motorsports
+Faraday
+FCA
+Fisker
+Ford
+Freightliner
+Gillig
+GM
+Google
+GEM
+GMC
+Hennessey
+Jeep
+Karma
+Kenworth
+Lincoln
+Lordstown Motors
+Lucid Motors
+Mack
+MCI
+Navistar
+Nikola Motor
+Oshkosh
+Panoz
+Peterbilt
+Pierce
+Polaris
+Proterra
+Ram
+RAESR
+Rezvani Motors
+Rivian
+Rossion
+Saleen
+SCG
+Shelby
+SRT
+SSC
+Tesla
+Thomas Built Buses
+Trion Supercars
+VLF Automotive
+Western Star
+Workhorse
+Adams-Farwell
+Alco
+AMC
+Amplex
+Apollo
+Apperson
+Aptera
+ArBenz
+Auburn
+Avanti Motor Company
+Baker Electric
+Bates
+Brush
+Cartercar
+Chalmers
+Chandler
+Chaparral Cars
+Checker
+Clénet
+Cole
+Columbia
+Continental
+Cord
+Crawford
+Crosley
+Cutting
+Daniels
+Davis
+Devon
+DeLorean
+DeSoto
+Diamond Reo Trucks
+Doble
+Dorris
+Dort
+Duesenberg
+Durant
+Dymaxion
+Eagle
+Edsel
+Elgin
+Essex
+Excalibur
+Flint
+Frazer
+Frontenac
+Gardner
+Geo
+Graham-Paige
+Grumman
+Haynes
+Hudson
+Hummer
+Hupmobile
+Hupp-Yeats
+Imperial
+International Harvester
+Inter-State
+Jackson
+Jeffery
+Kaiser
+King
+Kissel
+Kline Kar
+Knox
+LaFayette
+Laforza
+Lambert
+LaSalle
+Lexington
+Local
+Locomobile
+Lozier
+Lyons-Knight
+Marmon
+Marmon
+Marmon-Herrington
+Maxwell
+McFarlan
+Mercury
+Mitchell
+Monarch
+Monroe
+Moon
+Mosler
+Nash
+National
+Nyberg
+Oakland
+Oldsmobile
+Overland
+Packard
+Peerless
+Pierce-Arrow
+Pilot
+Plymouth
+Pontiac
+Pope-Toledo
+Pope-Tribune
+Premier
+Pungs Finch
+Rambler
+Rauch and Lang
+Regal
+REO
+Safari Coach
+Saturn
+Scion
+Scripps-Booth
+Simplex
+Speedwell
+Stanley
+Star
+Stearns-Knight
+Sterling
+Sterling Trucks
+Stevens-Duryea
+Stoddard-Dayton
+Studebaker
+Stutz
+TH!NK
+Thomas
+Tucker
+Vector
+VPG
+Velie
+Westcott
+White
+Willys
+Zimmer
+Effa
+SAZ
+GM Uzbekistan
+Venirauto
+Thaco
+Mekong Auto
+VinFast
+World Auto
+Vinaxuki
